@@ -1,4 +1,5 @@
-# UnrealTournament3_MODS
+# Unreal Tournament 3 Mods
+
 A collection of mods I have created for Unreal Tournament 3.
 
 Download Unreal Tournament 3 downloaded to play these mods.
