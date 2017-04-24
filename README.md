@@ -2,7 +2,7 @@
 
 A collection of mods I have created for Unreal Tournament 3.
 
-Download Unreal Tournament 3 downloaded to play these mods.
+Download [Unreal Tournament 3](http://store.steampowered.com/agecheck/app/13210/) to play these mods.
 
 
     |-- C:\ Documents
